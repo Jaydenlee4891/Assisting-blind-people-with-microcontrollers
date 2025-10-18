@@ -6,3 +6,5 @@ https://circuitdigest.com/microcontroller-projects/assistive-tech-for-blind
 The link on top uses edge impuls to train an esp32
 and the bottom one trains a new model and uses a different micro controller
 I haven't quite decided on what version I will use for primary reference
+
+After reading through the second part I have learned they failed. I liked the direction they were going with training your own data through YOLOV but It looks like I will be following the first project as my guideline
