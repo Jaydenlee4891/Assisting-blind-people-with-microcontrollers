@@ -1,1 +1,8 @@
+18/OCT/25
+Started the Assisting blind people with micro controllers. I found two great websites to help me with this
+https://circuitdigest.com/microcontroller-projects/object-recognition-using-esp32-cam-and-edge-impulse 
+https://circuitdigest.com/microcontroller-projects/assistive-tech-for-blind
 
+The link on top uses edge impuls to train an esp32
+and the bottom one trains a new model and uses a different micro controller
+I haven't quite decided on what version I will use for primary reference
